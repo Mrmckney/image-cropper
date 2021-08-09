@@ -8,9 +8,9 @@ body {
   height: 100vh;
   background: linear-gradient(
     200.96deg,
-    #fedc2a -29.09%,
-    #dd5789 51.77%,
-    #7a2c9e 129.35%
+    #35fe2a -29.09%,
+    #57cbdd 51.77%,
+    #432c9e 129.35%
   );
   font-family: sans-serif;
   overflow-y: hidden;
@@ -60,9 +60,9 @@ a:hover {
 }
 
 .save-btn {
-    z-index: 20;
-    position: fixed;
-    top: 1em;
-    right: 1em;
-    background-color: #efefa0;
+  z-index: 20;
+  position: fixed;
+  top: 1em;
+  right: 1em;
+  background-color: #efefa0;
 }
