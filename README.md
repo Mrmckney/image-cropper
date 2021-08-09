@@ -7,7 +7,7 @@ that allows the user to choose a file, crop and zoom and save.
 
 1. install dependencies by running `yarn`
 
-2 Launch app by running `yarn start`
+2. Launch app by running `yarn start`
 
 
 ## Build for desktop
